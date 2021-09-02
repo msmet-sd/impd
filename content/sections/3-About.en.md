@@ -1,34 +1,29 @@
 ---
 anchor: "About"
-header: "About"
-subheader: "Lorem ipsum dolor sit amet consectetur."
+header: "Program Schedule"
+subheader: "The first semester of IMPD would be offered in the following timeline."
 timeline: [
   {
     imageFileName: "about/1.jpg",
-    header: "2009-2011",
-    subheader: "Our Humble Beginnings",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    header: "September 02, 2021",
+    subheader: "Orientation",
+    content: "Prof. Gino Yu would hold a gathering of current and recently graduated students to share ideas and plans for the program."
   },
   {
     imageFileName: "about/2.jpg",
-    header: "March 2011",
-    subheader: "An Agency is Born",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    header: "September 09 to November 25, 2021 ",
+    subheader: "Our different speaker series would commence with the exception of October 14.",
+    content: "The list of speakers is detailed in advance to give you a chance to explore and anticipate different questions you might have"
   },
   {
     imageFileName: "about/3.jpg",
-    header: "December 2012",
-    subheader: "Transition to Full Service",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    header: "December 2021",
+    subheader: "End of First Semester of our MS-MET program",
+    content: "Our first semester offering, hopefully after having given you different perspectives would conclude."
   },
   {
-    imageFileName: "about/4.jpg",
-    header: "July 2014",
-    subheader: "Phase Two Expansion",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-  },
-  {
-    imageContent: "Be Part\r\nOf Our\r\nStory!"
+    imageContent: "IMPD II Coming Next January 2022",
   }
 ]
 ---
+<iframe class="airtable-embed" src="https://airtable.com/embed/shravWTOj2IoU51lp?backgroundColor=orangeLight&layout=card" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>

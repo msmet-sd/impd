@@ -9,7 +9,7 @@ import nl2br from "utils/nl2br";
 
 import "./About.scss";
 
-const About = ({ className, frontmatter }) => {
+const About = ({ className, frontmatter, html }) => {
   if (!frontmatter) {
     return null;
   }
@@ -21,6 +21,12 @@ const About = ({ className, frontmatter }) => {
       <Row>
         <SectionHeader header={rootHeader} subheader={rootSubHeader} />
       </Row>
+      <div>
+        <div dangerouslySetInnerHTML={{ __html: html }} />
+      </div>
+      <br />
+      <br />
+      <br />
       <Row>
         <Col lg={12}>
           <ul className="timeline">
@@ -49,11 +55,13 @@ const About = ({ className, frontmatter }) => {
 About.propTypes = {
   className: PropTypes.string,
   frontmatter: PropTypes.object,
+  html: PropTypes.node
 };
 
 About.defaultProps = {
   className: null,
   frontmatter: null,
+  html: PropTypes.node
 };
 
 export default About;

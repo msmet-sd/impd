@@ -94,6 +94,7 @@ export const query = graphql`
             subheader
           }
         }
+        html
         fields {
           fileName
           directoryName
@@ -131,7 +132,7 @@ const IndexPage = ({ data, pageContext: { langKey, defaultLang, langTextMap } })
       <Top frontmatter={topNode.frontmatter} />
       {
         // dynamically import sections
-        sectionsNodes.map(({ frontmatter, fields: { fileName } }, ind) => {
+        sectionsNodes.map(({ frontmatter, html, fields: { fileName } }, ind) => {
           const sectionComponentName = fileNameToSectionName(fileName);
           const SectionComponent = Sections[sectionComponentName];
 
@@ -140,6 +141,7 @@ const IndexPage = ({ data, pageContext: { langKey, defaultLang, langTextMap } })
               key={sectionComponentName}
               className={ind % 2 === 1 ? "bg-light" : null}
               frontmatter={frontmatter}
+              html={html}
             />
           ) : null;
         })

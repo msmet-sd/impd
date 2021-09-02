@@ -1,4 +1,4 @@
 ---
-brand: "Start Bootstrap"
+brand: "IMPD Speaker Series"
 menuText: "Menu "
 ---

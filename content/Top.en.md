@@ -1,7 +1,7 @@
 ---
-header: "It's Nice To Meet You"
-subheader: "Welcome To Our Studio!"
+header: "Learning together"
+subheader: "Welcome To Innovative Multimedia Project Development Series"
 imageFileName: "header-bg.jpg"
-jumpToAnchor: "Services"
-jumpToAnchorText: "Tell Me More"
+jumpToAnchor: "Portfolio"
+jumpToAnchorText: "See speaker series"
 ---

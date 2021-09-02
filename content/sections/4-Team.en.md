@@ -1,37 +1,15 @@
 ---
 anchor: "Team"
-header: "Our Amazing Team"
-subheader: "Lorem ipsum dolor sit amet consectetur."
-content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde."
+header: "Our Program Coordinator"
+subheader: "Here are the people that make this series available."
+content: ""
 teamMember: [
   {
-    imageFileName: "team/1.jpg",
-    header: "Kay Garland",
-    subheader: "Lead Designer",
+    imageFileName: "portfolio/01-gino-yu_tn.jpg",
+    header: "Prof. Gino Yu",
+    subheader: "Host of the IMPD Series",
     social: {
-      twitter: "#",
-      facebook: "#",
-      linkedin: "#"
-    }
-  },
-  {
-    imageFileName: "team/2.jpg",
-    header: "Larry Parker",
-    subheader: "Lead Marketer",
-    social: {
-      twitter: "#",
-      facebook: "#",
-      medium: "#"
-    }
-  },
-  {
-    imageFileName: "team/3.jpg",
-    header: "Diana Pertersen",
-    subheader: "Lead Developer",
-    social: {
-      twitter: "#",
-      facebook: "#",
-      medium: "#"
+      twitter: "phusikoi",
     }
   },
 ]

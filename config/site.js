@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Gatsyby Startbootstrap Agency",
+  title: "IMPD Speaker Series",
   keywords: [
     "gatsby",
     "gatsbyjs",
@@ -16,6 +16,5 @@ module.exports = {
   defaultLang: "en",
   langTextMap: {
     en: "English",
-    ja: "日本語",
   },
 };

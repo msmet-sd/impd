@@ -15,7 +15,7 @@ module.exports = {
         trackingId,
       },
     },
-     "gatsby-plugin-image",
+    "gatsby-plugin-image",
     {
       resolve: "gatsby-plugin-manifest",
       options: {
@@ -25,7 +25,7 @@ module.exports = {
         background_color: "#ffffff",
         theme_color: "#fed136",
         display: "minimal-ui",
-        icon: "content/assets/gatsby-icon.png",
+        icon: "content/assets/icon.png",
       },
     },
     "gatsby-transformer-remark",
