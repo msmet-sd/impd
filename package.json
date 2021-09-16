@@ -1,6 +1,6 @@
 {
-  "name": "gatsby-startbootstrap-agency",
-  "description": "gatsby version of startbootstrap-agency with i18n support",
+  "name": "impd-project-development",
+  "description": "Calendar site for impd talk series with bio's of various speakers.",
   "version": "0.1.0",
   "author": "thundermiracle",
   "bugs": {
