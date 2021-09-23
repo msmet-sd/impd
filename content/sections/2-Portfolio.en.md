@@ -4,14 +4,6 @@ header: "Speakers"
 subheader: "Here are the speakers that we have lined up"
 portfolios: [
   {
-    imageFileName: "portfolio/03-felix-marquardt_tn.jpg",
-    imageFileNameDetail: "portfolio/03-felix-marquardt.jpeg",
-    header: "Felix Marquardt",
-    subheader: "French author and columnist, ex-communications consultant, entrepreneur, French rap producer, speechwriter and strategic advisor",
-    content: "An unruly student, Marquardt was kicked out of several schools, including the Collège Stanislas, École Alsacienne, Institut Charlemagne in Paris, and Northfield Mount Hermon in Massachusetts. He studied history and philosophy at Syracuse University, then transferred to Columbia University before dropping out in his senior year.",
-    extraInfo: ["Date: September 09, 2021", "Zoom Link: In the Event Calendar Below", "Category: Keynote Speaker"]
-  },
-  {
     imageFileName: "portfolio/05-james-anderson_tn.jpg",
     imageFileNameDetail: "portfolio/05-james-anderson.jpeg",
     header: "James Anderson",
