@@ -35,7 +35,7 @@ Mr. Rust is based inHong Kong and frequently travels around the world to assess 
 
 David founded his current education-oriented company, e.mersion studios, LLC, in 2012 for client work and Emersionist, LLC for partnership projects.
 ",   
-    extraInfo: ["Date: September 30, 2021", "Zoom Link: Look at the Calendar Below", "Category: Keynote Speaker"]
+    extraInfo: ["Date: Postponed", "Zoom Link: Look at the Calendar Below", "Category: Keynote Speaker"]
   }
 
 ]
